@@ -1,0 +1,15 @@
+{
+  "name": "Unsplash_Bot",
+  "version": "1.0.0",
+  "description": "Twetter bot to post unspash's picture of the day",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Marmiz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "twit": "^2.2.9"
+  }
+}
